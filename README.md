@@ -1,0 +1,1 @@
+# core-banking-mock-architecture
